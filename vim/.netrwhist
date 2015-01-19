@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Volumes/D drive/project/01_Chep/05_Source/01_POS'
+let g:netrw_dirhist_2='/Volumes/D drive/project/01_Chep/05_Source/01_POS/APP'
+let g:netrw_dirhist_3='/Volumes/D drive/project/01_Chep/05_Source/01_POS/APP/TAG'
+let g:netrw_dirhist_4='/Volumes/D drive/project/01_Chep/05_Source/01_POS/APP'
+let g:netrw_dirhist_5='/Volumes/D drive/project/01_Chep/05_Source/01_POS/APP/TAG_MSP430_CC2420'
+let g:netrw_dirhist_6='/Volumes/D drive/project/01_Chep/05_Source/01_POS_4.3/APP'
+let g:netrw_dirhist_7='/Volumes/D drive/project/01_Chep/05_Source/02_FreeRTOS/License'
+let g:netrw_dirhist_8='/Users/kkseo-petari/Downloads'
